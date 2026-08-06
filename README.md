@@ -62,8 +62,12 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/vikrant_singla/">
-    <img src="https://leetcode-badge.vercel.app/api/users/vikrant_singla" alt="Dynamic LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=%24.solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvikrant_singla&logo=leetcode&color=brightgreen" alt="Dynamic LeetCode Solved Count" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary_Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-DSA-ff0055?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
