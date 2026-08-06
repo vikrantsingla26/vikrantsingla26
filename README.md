@@ -1,15 +1,21 @@
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,50:0083B0,100:005C97&text=Vikrant%20Singla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=58"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,50:2980B9,100:1E3C72&height=260&section=header&text=Vikrant%20Singla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=60"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+Machine+Learning;Always+Building+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+Machine+Learning;Always+Building+Cool+Things+🚀"/>
 
 </p>
 
 <h3 align="center">
+
 Computer Science Student • Full Stack Developer • DSA Enthusiast
+
 </h3>
 
 <p align="center">
@@ -32,19 +38,34 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 # 👨‍💻 About Me
 
-```cpp
-Name        : Vikrant Singla
-Education   : B.E. Computer Engineering
-College     : Thapar Institute of Engineering & Technology
-Interests   : Full Stack Development • DSA • Machine Learning
-Goal        : Software Engineering Internship
+```yaml
+Name: Vikrant Singla
+
+Education:
+  B.E. Computer Engineering
+
+College:
+  Thapar Institute of Engineering & Technology
+
+Interests:
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - Machine Learning
+
+Current Focus:
+  - MERN Stack
+  - Problem Solving
+  - System Design
+
+Looking For:
+  Software Engineering Internship
 ```
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+## 💻 Languages
 
 <p align="center">
 
@@ -52,7 +73,9 @@ Goal        : Software Engineering Internship
 
 </p>
 
-### Frontend
+---
+
+## 🌐 Frontend
 
 <p align="center">
 
@@ -60,7 +83,9 @@ Goal        : Software Engineering Internship
 
 </p>
 
-### Backend
+---
+
+## ⚙️ Backend
 
 <p align="center">
 
@@ -68,27 +93,13 @@ Goal        : Software Engineering Internship
 
 </p>
 
-### Tools
+---
+
+## 🛠 Tools
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/vikrantsingla26">
-<img src="https://img.shields.io/badge/GitHub-vikrantsingla26-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/vikrant_singla/">
-<img src="https://img.shields.io/badge/LeetCode-vikrant__singla-orange?style=for-the-badge&logo=leetcode"/>
-</a>
 
 </p>
 
@@ -100,9 +111,19 @@ Goal        : Software Engineering Internship
 
 <a href="https://leetcode.com/u/vikrant_singla/">
 
-<img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Baloo%202&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Baloo%202&radius=20&ext=heatmap"/>
 
 </a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Solved-267+-brightgreen?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-DSA-red?style=for-the-badge"/>
 
 </p>
 
@@ -110,7 +131,7 @@ Goal        : Software Engineering Internship
 
 <a href="https://leetcode.com/u/vikrant_singla/">
 
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/View%20Profile-orange?style=for-the-badge&logo=leetcode"/>
 
 </a>
 
@@ -118,59 +139,78 @@ Goal        : Software Engineering Internship
 
 ---
 
+# 📈 Coding Journey
+
+- 💻 Solving LeetCode every week
+- 🚀 Building Full Stack Projects
+- 📚 Learning Machine Learning
+- 🌱 Exploring System Design
+
+---
+---
+
 # 📚 Currently Learning
 
-- 🌐 MERN Stack
-- 🤖 Machine Learning
-- ⚙️ System Design
-- 📈 Advanced Data Structures & Algorithms
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-Learning-success?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/System%20Design-Learning-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-Daily%20Practice-red?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+<div align="center">
+
+| 🎯 Goal | Status |
+|:------------------------------|:------:|
+| Solve **500+ LeetCode Problems** | 🔄 |
+| Master **MERN Stack** | 🔄 |
+| Learn **Machine Learning** | 🔄 |
+| Build **10+ Projects** | 🔄 |
+| Software Engineering Internship | 🎯 |
+
+</div>
 
 ---
 
 # ⚡ Quick Facts
 
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Developer
-- 📚 DSA Enthusiast
-- 🚀 Building Projects
-- 🌱 Learning Machine Learning
-- ❤️ Open Source Enthusiast
+- 🎓 B.E. Computer Engineering Student
+- 💻 Passionate about Full Stack Development
+- 📚 Regularly solving DSA problems
+- 🚀 Love building practical projects
+- 🌱 Always learning new technologies
 
 ---
-# 🎯 2026 Goals
+
+# 💡 Areas of Interest
 
 <p align="center">
 
-| Goal | Status |
-|------|:------:|
-| 🚀 Solve 500+ LeetCode Problems | 🔄 In Progress |
-| 💻 Build 10+ Real-World Projects | 🔄 In Progress |
-| 🌐 Master MERN Stack | 🔄 Learning |
-| 🤖 Learn Machine Learning | 🔄 Learning |
-| 🎓 Secure a Software Engineering Internship | 🎯 Target |
+🌐 Full Stack Development • ⚙️ Backend Development • 📱 Web Development
+
+🧠 Data Structures & Algorithms • 🤖 Machine Learning
+
+☁️ Cloud Computing • 🛠️ System Design
 
 </p>
 
 ---
 
-# 💡 Interests
+# 🏅 Achievements
 
-- 💻 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🌐 Backend Development
-- ⚡ Problem Solving
-- 📚 Continuous Learning
-
----
-
-# 📖 Favorite Quote
-
-<p align="center">
-
-> **"Consistency beats intensity."**
-
-</p>
+- 🧩 **267+ Problems Solved on LeetCode**
+- 🚀 Building Full Stack Applications
+- 📖 Consistently learning new technologies
+- 💻 Strong interest in Software Engineering
 
 ---
 
@@ -179,39 +219,51 @@ Goal        : Software Engineering Internship
 <p align="center">
 
 <a href="https://github.com/vikrantsingla26">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/vikrant_singla/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vikrantsingla2605@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 </p>
 
 ---
 
-# ⭐ Thanks for Visiting!
+# 💬 Quote
 
 <p align="center">
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding! 🚀
+> **"Small improvements every day lead to remarkable results."**
 
 </p>
 
 ---
 
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:005C97&height=120&section=footer"/>
+If you like my work, consider ⭐ starring my repositories.
+
+Happy Coding! 🚀
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,50:2980B9,100:1E3C72&height=120&section=footer"/>
 
 </p>
