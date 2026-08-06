@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Full+Stack+Developer+%7C+MERN+Stack;267%2B+LeetCode+Problems+Solved+%7C+C%2B%2B+DSA;Exploring+System+Design+%26+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Full+Stack+Developer+%7C+MERN+Stack;Data+Structures+%26+Algorithms+%7C+C%2B%2B;Exploring+System+Design+%26+Machine+Learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,7 +52,23 @@
 
 ---
 
-### 📊 GitHub Overview & Statistics
+### 🏆 Dynamic LeetCode Statistics (Live Auto-Update)
+
+<p align="center">
+  <a href="https://leetcode.com/u/vikrant_singla/">
+    <img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode Live Stats Card"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vikrant_singla/">
+    <img src="https://leetcode-badge.vercel.app/api/users/vikrant_singla" alt="Dynamic LeetCode Badge"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vikrantsingla26&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=9eace0&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
@@ -61,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=vikrantsingla26&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&bg_color=0d1117" width="60%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingla26&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=7000ff&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
 
 ---
@@ -90,24 +106,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 🏆 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/vikrant_singla/">
-    <img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode Card"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-267+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Primary_Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-DSA-ff0055?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
