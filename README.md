@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vikrant Singla</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,50:0083B0,100:005C97&text=Vikrant%20Singla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=58"/>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+Machine+Learning;Always+Building+Something+New+🚀"/>
+
+</p>
 
 <h3 align="center">
 Computer Science Student • Full Stack Developer • DSA Enthusiast
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things+🚀"/>
-</p>
 
 <p align="center">
 
@@ -28,15 +32,13 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student at **Thapar Institute of Engineering & Technology**
-
-💻 Passionate about building scalable web applications and solving Data Structures & Algorithms.
-
-🌱 **Currently Learning**
-
-- MERN Stack
-- Machine Learning
-- System Design
+```cpp
+Name        : Vikrant Singla
+Education   : B.E. Computer Engineering
+College     : Thapar Institute of Engineering & Technology
+Interests   : Full Stack Development • DSA • Machine Learning
+Goal        : Software Engineering Internship
+```
 
 ---
 
@@ -45,25 +47,33 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 ### Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
+
 </p>
 
 ### Frontend
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+
 </p>
 
 ### Backend
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
 </p>
 
 ### Tools
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
 </p>
 
 ---
@@ -99,7 +109,9 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 <p align="center">
 
 <a href="https://leetcode.com/u/vikrant_singla/">
+
 <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
 </a>
 
 </p>
@@ -115,18 +127,50 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 ---
 
+# ⚡ Quick Facts
+
+- 🎓 Computer Engineering Student
+- 💻 Full Stack Developer
+- 📚 DSA Enthusiast
+- 🚀 Building Projects
+- 🌱 Learning Machine Learning
+- ❤️ Open Source Enthusiast
+
+---
 # 🎯 2026 Goals
 
-- 🚀 Solve **500+ LeetCode Problems**
-- 💻 Build **10+ Real World Projects**
-- 🌟 Contribute to Open Source
-- 🎓 Secure a Software Engineering Internship
+<p align="center">
+
+| Goal | Status |
+|------|:------:|
+| 🚀 Solve 500+ LeetCode Problems | 🔄 In Progress |
+| 💻 Build 10+ Real-World Projects | 🔄 In Progress |
+| 🌐 Master MERN Stack | 🔄 Learning |
+| 🤖 Learn Machine Learning | 🔄 Learning |
+| 🎓 Secure a Software Engineering Internship | 🎯 Target |
+
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 💡 Interests
 
-> I enjoy turning ideas into real-world applications and continuously improving my problem-solving skills.
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🌐 Backend Development
+- ⚡ Problem Solving
+- 📚 Continuous Learning
+
+---
+
+# 📖 Favorite Quote
+
+<p align="center">
+
+> **"Consistency beats intensity."**
+
+</p>
 
 ---
 
@@ -138,9 +182,13 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/vikrant_singla/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:vikrantsingla2605@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -150,8 +198,20 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 ---
 
+# ⭐ Thanks for Visiting!
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding! 🚀
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:005C97&height=120&section=footer"/>
 
 </p>
