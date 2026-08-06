@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
-
-<h1 align="center">Vikrant Singla</h1>
+<h1 align="center">Hi 👋, I'm Vikrant Singla</h1>
 
 <h3 align="center">
 Computer Science Student • Full Stack Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things+🚀"/>
+</p>
+
+<p align="center">
+
 <a href="https://github.com/vikrantsingla26">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -20,6 +21,7 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 <a href="mailto:vikrantsingla2605@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -28,7 +30,7 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 🎓 Computer Science Engineering Student at **Thapar Institute of Engineering & Technology**
 
-💻 Passionate about solving **Data Structures & Algorithms** and building modern **Full Stack Web Applications**.
+💻 Passionate about building scalable web applications and solving Data Structures & Algorithms.
 
 🌱 **Currently Learning**
 
@@ -36,33 +38,53 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 - Machine Learning
 - System Design
 
-🎯 **Goals**
-
-- 🚀 500+ LeetCode Problems
-- 💻 Build Real-World Projects
-- 🎓 Software Engineering Internship
-
 ---
 
 # 🚀 Tech Stack
 
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
+<a href="https://github.com/vikrantsingla26">
+<img src="https://img.shields.io/badge/GitHub-vikrantsingla26-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,linux"/>
+<a href="https://leetcode.com/u/vikrant_singla/">
+<img src="https://img.shields.io/badge/LeetCode-vikrant__singla-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
 ---
 
-# 💻 LeetCode
+# 🏆 LeetCode
 
 <p align="center">
 
@@ -77,23 +99,34 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 <p align="center">
 
 <a href="https://leetcode.com/u/vikrant_singla/">
-
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Currently Learning
 
-| Project | Description |
-|----------|-------------|
-| 💱 Currency Converter | React application using Exchange Rate API |
-| 📝 Blog App | Blogging platform built with React & Appwrite |
-| 🎬 Movie Search App | Movie search application using TMDB API |
-| 🍽️ Hotel Management System | Restaurant management and billing application |
+- 🌐 MERN Stack
+- 🤖 Machine Learning
+- ⚙️ System Design
+- 📈 Advanced Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Solve **500+ LeetCode Problems**
+- 💻 Build **10+ Real World Projects**
+- 🌟 Contribute to Open Source
+- 🎓 Secure a Software Engineering Internship
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy turning ideas into real-world applications and continuously improving my problem-solving skills.
 
 ---
 
