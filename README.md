@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vikrant+Singla;Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Things+🚀" />
 </p>
 
 <h1 align="center">Vikrant Singla</h1>
@@ -9,21 +9,17 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrantsingla26&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<a href="https://github.com/vikrantsingla26">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/vikrantsingla26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/vikrant_singla/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/vikrant_singla/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <a href="mailto:vikrantsingla2605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:vikrantsingla2605@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -32,17 +28,19 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 🎓 Computer Science Engineering Student at **Thapar Institute of Engineering & Technology**
 
-💻 Interested in
+💻 Passionate about solving **Data Structures & Algorithms** and building modern **Full Stack Web Applications**.
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Backend Development
-
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - MERN Stack
 - Machine Learning
 - System Design
+
+🎯 **Goals**
+
+- 🚀 500+ LeetCode Problems
+- 💻 Build Real-World Projects
+- 🎓 Software Engineering Internship
 
 ---
 
@@ -50,19 +48,15 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
 
-</p>
+<br><br>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind"/>
 
-# 📊 GitHub Stats
+<br><br>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikrantsingla26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantsingla26&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,linux"/>
 
 </p>
 
@@ -84,7 +78,7 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 <a href="https://leetcode.com/u/vikrant_singla/">
 
-<img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
@@ -94,12 +88,12 @@ Computer Science Student • Full Stack Developer • DSA Enthusiast
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack |
-|----------|------------|
-| 💱 Currency Converter | React • Exchange Rate API |
-| 📝 Blog App | React • Appwrite |
-| 🎬 Movie Search App | React • TMDB API |
-| 📚 DSA Solutions | C++ |
+| Project | Description |
+|----------|-------------|
+| 💱 Currency Converter | React application using Exchange Rate API |
+| 📝 Blog App | Blogging platform built with React & Appwrite |
+| 🎬 Movie Search App | Movie search application using TMDB API |
+| 🍽️ Hotel Management System | Restaurant management and billing application |
 
 ---
 
