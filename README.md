@@ -1,365 +1,131 @@
-<!-- ========================================================= -->
-<!--                    PREMIUM GITHUB PROFILE                 -->
-<!-- ========================================================= -->
-
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,35:161b22,70:00F7FF,100:7000FF&text=Vikrant%20Singla&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20•%20Full%20Stack%20Developer%20•%20DSA%20Enthusiast&descAlignY=60&descSize=21"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,35:161b22,70:00f7ff,100:7000ff&text=Vikrant%20Singla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=20&descColor=00f7ff" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=190&lines=%24+whoami;Vikrant+Singla;%24+current_focus;Building+Modern+Web+Applications;%24+coding;Solving+LeetCode+Daily;%24+learning;Machine+Learning+%26+System+Design;%24+motto;Learn+%E2%86%92+Build+%E2%86%92+Repeat+🚀"/>
-
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=%24+whoami+%E2%86%92+Vikrant+Singla;%F0%9F%92%BB+Full+Stack+Developer+%7C+MERN+Stack;%F0%9F%A7%A9+267%2B+LeetCode+Problems+Solved+%7C+C%2B%2B+DSA;%F0%9F%93%98+Exploring+System+Design+%26+Machine+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="center">
-
-Computer Science Student • Full Stack Developer • DSA Enthusiast
-
-</h3>
-
----
+<p align="center">
+  <a href="https://github.com/vikrantsingla26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/vikrant_singla/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vikrantsingla2605@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
-
-<a href="https://github.com/vikrantsingla26">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://leetcode.com/u/vikrant_singla/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
-
-<a href="mailto:vikrantsingla2605@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=vikrantsingla26&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-00F7FF?style=flat-square&logo=target&logoColor=black" alt="Status"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### ⚡ Quick Terminal `whoami`
 
-```yaml
-Name        : Vikrant Singla
-
-Education   : B.E. Computer Engineering
-
-College     : Thapar Institute of Engineering & Technology
-
-Role        : Full Stack Developer
-
-Languages   :
-  - C++
-  - Java
-  - Python
-  - JavaScript
-
-Currently Learning:
-  - MERN Stack
-  - Machine Learning
-  - System Design
-
-Goal:
-  Software Engineering Internship
+```json
+{
+  "developer": {
+    "name": "Vikrant Singla",
+    "education": "B.E. Computer Engineering",
+    "institution": "Thapar Institute of Engineering & Technology",
+    "status": "Seeking Software Engineering Internships 🚀"
+  },
+  "technical_passions": [
+    "Full Stack Development (MERN)",
+    "Data Structures & Algorithms in C++",
+    "System Design & Machine Learning"
+  ]
+}
 ```
 
 ---
 
-# 🚀 Tech Stack
-
-## 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
-</p>
-
----
-
-## 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-
-</p>
-
----
-# 🏆 LeetCode Journey
-
-<p align="center">
-
-<a href="https://leetcode.com/u/vikrant_singla/">
-
-<img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Baloo%202&radius=20&ext=heatmap"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/u/vikrant_singla/">
-
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
-
-</p>
-
----
-
-# 📈 Coding Journey
+### 🚀 Tech Stack & Tooling
 
 <div align="center">
 
-| 💻 Skill | Status |
-|:--------------------------|:----------------:|
-| Data Structures & Algorithms | 🟢 Active |
-| Full Stack Development | 🟢 Active |
-| Machine Learning | 🔵 Learning |
-| System Design | 🟡 Beginner |
-| Open Source | 🔜 Soon |
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
+| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> |
 
 </div>
 
----
-
-# 📚 Currently Learning
+<br/>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/MERN%20Stack-Learning-success?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/System%20Design-Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-red?style=for-the-badge&logo=leetcode"/>
-
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Solve **500+ LeetCode Problems**
-- 🌐 Master the **MERN Stack**
-- 🤖 Learn **Machine Learning**
-- ⚙️ Understand **System Design**
-- 💼 Secure a **Software Engineering Internship**
-- 🌟 Contribute to **Open Source**
-
----
-
-# 💡 Areas of Interest
-
-<div align="center">
-
-🌐 Full Stack Development
-
-⚙️ Backend Engineering
-
-🧩 Data Structures & Algorithms
-
-🤖 Machine Learning
-
-☁️ Cloud Computing
-
-📈 System Design
-
-</div>
-
----
-
-# ⚡ Quick Facts
-
-```yaml
-Favorite Language : C++
-
-Backend           : Node.js + Express
-
-Database          : MongoDB & MySQL
-
-Frontend          : React + Tailwind CSS
-
-Editor            : VS Code
-
-Operating System  : Linux & macOS
-
-Currently Working :
-  - MERN Stack
-  - DSA
-  - Machine Learning
-
-Dream Company :
-  FAANG / Product Based Company
-```
-
----
-
-# 💻 Daily Workflow
-
-```text
-☕ Coffee
-     │
-     ▼
-📚 Learn
-
-     │
-     ▼
-💻 Code
-
-     │
-     ▼
-🐞 Debug
-
-     │
-     ▼
-🚀 Build
-
-     │
-     ▼
-😴 Sleep
-
-Repeat...
-```
-
----
-# 📫 Connect With Me
+### 🏆 LeetCode Stats
 
 <p align="center">
+  <a href="https://leetcode.com/u/vikrant_singla/">
+    <img src="https://leetcard.jacoblin.cool/vikrant_singla?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode Card"/>
+  </a>
+</p>
 
-<a href="https://github.com/vikrantsingla26">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/vikrant_singla/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:vikrantsingla2605@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-267+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary_Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-DSA-ff0055?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-# 📊 GitHub Activity
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrantsingla26&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vikrantsingla26&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=9eace0&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantsingla26&theme=tokyonight&hide_border=true&stroke=00f7ff&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" width="48%" alt="GitHub Streak"/>
 </p>
 
-> If this card doesn't load, simply remove it. It's a third-party service.
-
----
-
-# 🌟 Philosophy
-
-<div align="center">
-
-### 💡 *"Learn • Build • Improve • Repeat"*
-
-I believe consistent learning and building practical projects is the best way to become a better software engineer.
-
-</div>
-
----
-
-# 🚀 Currently Working On
-
-- 🌐 Full Stack Web Development
-- 🧩 Solving LeetCode Problems
-- 🤖 Machine Learning
-- ⚙️ System Design
-- 📚 Exploring Open Source
-
----
-
-# 📈 2026 Roadmap
-
-```text
-MERN Stack           ██████████░░░░░░░░░░ 50%
-
-Data Structures      ██████████████░░░░░░ 70%
-
-Machine Learning     ████░░░░░░░░░░░░░░░░ 20%
-
-System Design        ███░░░░░░░░░░░░░░░░░ 15%
-
-Open Source          ██░░░░░░░░░░░░░░░░░░ 10%
-```
-
----
-
-# 🤝 Let's Connect
-
 <p align="center">
-
-💬 Always open to discussing
-
-**Software Engineering • Full Stack Development • DSA • Machine Learning**
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingla26&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=7000ff&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
 
 ---
 
-<h2 align="center">
+### 🎯 Goals & Roadmap
 
-⭐ Thanks for Visiting My Profile ⭐
-
-</h2>
-
-<p align="center">
-
-If you like my work, consider ⭐ starring my repositories.
-
-Happy Coding! 🚀
-
-</p>
+| 🎯 Roadmap Goal | Target Metric | Status | Focus Area |
+| :--- | :---: | :---: | :--- |
+| **LeetCode Problem Solving** | 500+ Solved | 🔄 In Progress | Advanced Graph, DP & Trees |
+| **Full Stack Mastery** | 10+ Projects | 🔄 In Progress | MERN Stack & Microservices |
+| **Machine Learning Foundations** | 3 Projects | 🔄 Learning | Python & Scikit-Learn |
+| **System Design Principles** | High & Low Level | 📚 Learning | Scalability & Architecture |
+| **Software Engineering Role** | Internship | 🎯 Active Target | Summer / Fall Opportunities |
 
 ---
 
+<blockquote align="center">
+  <i>"Small improvements every day lead to remarkable results."</i>
+</blockquote>
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,35:161b22,70:00F7FF,100:7000FF&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:00f7ff,100:0d1117&height=120&section=footer" width="100%"/>
 </p>
