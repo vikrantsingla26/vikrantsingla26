@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,35:161b22,70:00f7ff,100:7000ff&text=Vikrant%20Singla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=20&descColor=00f7ff" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:00f7ff,100:7000ff&text=Vikrant%20Singla&fontSize=48&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner"/>
 </p>
+
+<h3 align="center">Computer Science Student • Full Stack Developer • DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=%24+whoami+%E2%86%92+Vikrant+Singla;%F0%9F%92%BB+Full+Stack+Developer+%7C+MERN+Stack;%F0%9F%A7%A9+267%2B+LeetCode+Problems+Solved+%7C+C%2B%2B+DSA;%F0%9F%93%98+Exploring+System+Design+%26+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Full+Stack+Developer+%7C+MERN+Stack;267%2B+LeetCode+Problems+Solved+%7C+C%2B%2B+DSA;Exploring+System+Design+%26+Machine+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vikrantsingla26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/vikrant_singla/">
@@ -47,6 +49,20 @@
   ]
 }
 ```
+
+---
+
+### 📊 GitHub Overview & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vikrantsingla26&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=9eace0&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantsingla26&theme=tokyonight&hide_border=true&stroke=00f7ff&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=vikrantsingla26&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&bg_color=0d1117" width="60%" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -92,20 +108,6 @@
   <img src="https://img.shields.io/badge/Primary_Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-DSA-ff0055?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vikrantsingla26&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=9eace0&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantsingla26&theme=tokyonight&hide_border=true&stroke=00f7ff&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingla26&theme=tokyonight&bg_color=0d1117&color=00f7ff&line=00f7ff&point=7000ff&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
 
 ---
